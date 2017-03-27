@@ -1,0 +1,21 @@
+.header {
+    width:100%;
+    position: fixed;
+    top:0;
+    height:4.5rem;
+
+}
+.title {
+    width:100%;
+    background: #212529;
+    color: #ffffff;
+    line-height: 2rem;
+    text-align: center;
+}
+
+.sideBar {
+    width: 100%;
+    background: #343a40;
+    color: #ffffff;
+    height: 2.5rem;
+}
