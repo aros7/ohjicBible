@@ -3,6 +3,7 @@
  */
 import React, { Component } from 'react';
 import { Link } from 'react-router';
+import '../css/component/menu.css';
 
 export default class Menu extends Component {
     render(){

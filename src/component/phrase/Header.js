@@ -2,6 +2,7 @@
  * Created by sora on 2017. 3. 27..
  */
 import React, { Component } from 'react';
+import '../../css/component/header.css';
 
 export default class Header extends Component {
     render(){
